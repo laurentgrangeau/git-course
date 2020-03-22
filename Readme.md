@@ -1,10 +1,10 @@
 # Git/Bitbucket Course
 
 This repo contains a reveal.js presentation about Git and Bitbucket
-To visualize this presentation, go here: [https://arthurmauvezin.github.io/git-course](https://arthurmauvezin.github.io/git-course)
+To visualize this presentation, go here: [https://laurentgrangeau.github.io/git-course](https://laurentgrangeau.github.io/git-course)
 You can also clone this repo and expose static pages through your favorite web server.
 
-This course is completed by a lab available here: [https://github.com/arthurmauvezin/git-lab](https://github.com/arthurmauvezin/git-lab)
+This course is completed by a lab available here: [https://github.com/laurentgrangeau/git-lab](https://github.com/laurentgrangeau/git-lab)
 
 > This course was originally created for training session. You can use it freely.
 
@@ -21,7 +21,7 @@ docker stop git-course
 
 
 ## Print this course to pdf (only in chrome and chromium)
-* Click on [this link](https://arthurmauvezin.github.io/git-course/?print-pdf&pdfSeparateFragments=false)
+* Click on [this link](https://laurentgrangeau.github.io/git-course/?print-pdf&pdfSeparateFragments=false)
 * Then `CTRL+P` on the generated page
 * Change the following settings
 
