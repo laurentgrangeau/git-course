@@ -17,7 +17,7 @@
 
 ----
 
-## Découpage de la journée
+## Découpage du cours
 
 * Présentation et concepts
 * Utilisation basique
@@ -29,7 +29,7 @@
 
 ----
 
-## Découpage de la journée
+## Découpage du cours
 
 > Chaque sujet sera présenté et suivi d'une session de mise en application
 
