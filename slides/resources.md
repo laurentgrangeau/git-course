@@ -11,6 +11,6 @@
 
 ### Miscellaneous
 
-* [Format glob](https://en.wikipedia.org/wiki/Glob_(programming))
+* [Format glob](https://en.wikipedia.org/wiki/Glob_(programming)
 * [Git Pro Book](https://git-scm.com/book/en/v2)
 * [Exemple Hook](https://github.com/arthurmauvezin/git-hooks-prepare-commit-jira-bitbucket)
