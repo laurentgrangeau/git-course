@@ -40,7 +40,8 @@ Option fréquente:
 git add <files>
 ```
 > Utilisé pour les fichiers untracked ou modified de la même façon
-Exemple:
+
+> Exemple:
 ```bash
 git add myfile.txt
 git add .
