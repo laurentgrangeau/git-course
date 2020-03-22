@@ -60,7 +60,7 @@ git checkout -b <branch_name>
 ```bash
 git branch -d <branch_name>
 ```
-* Pour forcer le delete:
+Pour forcer le delete:
 ```bash
 git branch -D <branch_name>
 ```
