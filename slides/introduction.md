@@ -1,8 +1,8 @@
 # Git Course
 #### By
-##### Arthur Mauvezin
+##### Laurent Grangeau
 
-<i><a target="_new" href="http://twitter.com/arthurmauvezin">@arthurmauvezin</a> | <a target="_new" href="http://github.com/arthurmauvezin">http://github.com/arthurmauvezin</a></i>
+<i><a target="_new" href="http://twitter.com/laurentgrangeau">@laurentgrangeau</a> | <a target="_new" href="http://github.com/laurentgrangeau">http://github.com/laurentgrangeau</a></i>
 
 ---
 
@@ -12,10 +12,8 @@
 
 ### Who I am?
 
-> Arthur Mauvezin<br />
-> DevOps Engineer @ Ouidou Consulting
-
-<img src="https://avatars2.githubusercontent.com/u/10439516?s=400&u=27155f0ca1ec897597b113b9677934db02901d9a&v=4" width="200px" />
+> Laurent Grangeau<br />
+> Cloud Solution Architect @ Sogeti
 
 ----
 
@@ -39,8 +37,8 @@
 
 ## Ressources
 
-* Le cours: [https://arthurmauvezin.github.io/git-course](https://arthurmauvezin.github.io/git-course)
-* [Le repo du cours](https://github.com/arthurmauvezin/git-course)
+* Le cours: [https://laurentgrangeau.github.io/git-course](https://laurentgrangeau.github.io/git-course)
+* [Le repo du cours](https://github.com/laurentgrangeau/git-course)
 
 ----
 
